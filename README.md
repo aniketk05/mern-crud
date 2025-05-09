@@ -90,8 +90,8 @@ function App() {
   };
 
   return (
-    <div style={{ padding: 20 }}>
-      <h2>Simple MERN User CRUD (No dotenv)</h2>
+    <div >
+      
       <input
         placeholder="Name"
         value={form.name}
